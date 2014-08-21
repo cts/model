@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "main": "lib/index.js",
   "dependencies": {
-    "cts/util": "0.9",
+    "cts/util": "0.8",
   }
 }
