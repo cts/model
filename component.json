@@ -3,7 +3,7 @@
   "version": "0.8",
   "main": "lib/index.js",
   "dependencies": {
-    "cts/util": "0.8",
-    "cts/parser": "0.8"
+    "cts/util": "*",
+    "cts/parser": "*"
   }
 }
